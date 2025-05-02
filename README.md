@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./img/github-header-image.png)
+<!-- ![Header](./img/github-header-image2.png) -->
+![Header](./img/github-header-image2.png)
 
 
-🌱 I’m currently learning **HTML,CSS,Js**
+- 🌱 I’m currently learning **HTML,CSS,Js** 
 
-🤔 I’m looking for help with Tutorial Pak [@sandhikagalih](https://www.youtube.com/@sandhikagalihWPU).
+- 🤔 I’m looking for help with Tutorial Pak[@sandhikagalih](https://www.youtube.com/@sandhikagalihWPU)
+
+- 🤦‍♂️ 
