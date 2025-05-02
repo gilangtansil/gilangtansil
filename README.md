@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 ![https://instagram.com/anywork89/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 #### My Github Stats
-![gilangtansil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangtansil&show_icons=true&theme=dark)
+![gilangtansil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangtansil&show_icons=true&theme=gruvbox)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangtansil&layout=donut&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangtansil&layout=donut&theme=gruvbox)]
 
 
